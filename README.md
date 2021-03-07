@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**luizggritte/luizggritte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a beginner Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+<ul>
+  <li>🎓 Graduated at ETEC João Belarmino, in the Computer Technician course</li>
+  <li>👨‍🎓 Currently, a Computer Science student at UniFAJ</li>
+  <li>📖 Learning JavaScript in general. NodeJS, ReactJS, NextJS...</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizggritte&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz_Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgustavo234/)](https://www.linkedin.com/in/luizgustavo234/)
