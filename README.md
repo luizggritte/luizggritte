@@ -10,4 +10,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizggritte&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz_Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizgustavo234/)](https://www.linkedin.com/in/luizgustavo234/)
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz_Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizggritte/)](https://www.linkedin.com/in/luizggritte/)
