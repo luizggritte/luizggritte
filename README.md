@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">I'm a beginner Full Stack Developer</h3>
+<h3 align="center">I'm a Full Stack Developer</h3>
 
 <ul>
-  <li>🎓 Graduated at ETEC João Belarmino, in the Computer Technician course</li>
-  <li>👨‍🎓 Currently, a Computer Science student at UniFAJ</li>
-  <li>📖 Learning JavaScript in general. NodeJS, ReactJS, NextJS...</li>
+  <li>🎓 Graduated in Computer Technician from ETEC João Belarmino</li>
+  <li>🎓 Graduated in Computer Science from UniFAJ</li>
+  <li>📖 Learning JavaScript (NodeJS, NestJS, ReactJS, NextJS) and Java (Spring Boot)</li>
+  <li>💻 Passionate about hardware and exploring new technologies</li>
 </ul>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizggritte&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
